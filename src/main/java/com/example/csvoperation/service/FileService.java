@@ -3,16 +3,13 @@ package com.example.csvoperation.service;
 import com.example.csvoperation.service.impl.FileServiceImpl;
 import com.example.csvoperation.utils.ColorCode;
 import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Color;
 import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.time.DayOfWeek;
@@ -54,7 +51,6 @@ public class FileService implements FileServiceImpl {
                     }
 
                 }
-                System.out.println("");
             }
             file.close();
         } catch (Exception e) {
