@@ -17,3 +17,5 @@ File Path=>
 The following image contains the Action list.
 
 Action =>
+![action](https://user-images.githubusercontent.com/26492690/162231058-d53d4050-dedc-4e14-a6b6-e7fb96c6d987.png)
+
