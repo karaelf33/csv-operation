@@ -11,7 +11,11 @@ After creating each File it reads this file and when Lagos time zone matches ins
 In the image below, there is the path where the file was created.
 
 File Path=>
+![file](https://user-images.githubusercontent.com/26492690/162231477-91203bbc-85d5-4704-b46c-20ddb5258b2c.png)
+
 
 The following image contains the Action list.
 
 Action =>
+![action](https://user-images.githubusercontent.com/26492690/162231058-d53d4050-dedc-4e14-a6b6-e7fb96c6d987.png)
+
